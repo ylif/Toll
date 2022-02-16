@@ -18,7 +18,7 @@ Usage
 
 1. The program is running on the MS Windows 10 platform with JDK 17.
 2. Download the file 'interchanges.json' and 'json-simple-1.1.1.jar' to the folder 'C:\JSON\'. If such folder does not exist, creat it. 
-3. Download the 'Solution.java to' the desktop folder.
+3. Download the 'Solution.java' to the desktop folder.
 4. Click the Start Menu search bar icon and type Command Prompt. Select the best match option from the results.
 5. Go to the desktop folder, such as 'C:\Users\your name\Desktop'.
 6. Compile the Java file by the following command, 'javac -classpath C:\JSON\json=simple-1.1.1.jar; Solution.java -Xlint'.
